@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.505bb44e.css",
+    "main.js": "/shopping-cart/static/js/main.907ca5ec.js",
+    "static/js/787.a5a00b74.chunk.js": "/shopping-cart/static/js/787.a5a00b74.chunk.js",
+    "static/media/insta.svg": "/shopping-cart/static/media/insta.9b79c531e282e638a8e77baf17c1202f.svg",
+    "static/media/adidas.svg": "/shopping-cart/static/media/adidas.c2509f6380b5d2a812069a76cd6b6c8b.svg",
+    "static/media/yeshtery2.svg": "/shopping-cart/static/media/yeshtery2.c03f583c8fa96c252a5628fd428056dc.svg",
+    "static/media/role.svg": "/shopping-cart/static/media/role.08cc15b5d43ce1f095e1fea5f60db433.svg",
+    "static/media/yeshtery.svg": "/shopping-cart/static/media/yeshtery.fd943939913025cdcbb85274a343ddcf.svg",
+    "static/media/linkedin.svg": "/shopping-cart/static/media/linkedin.e2efd2af0c6d8b01897e70f181c0212b.svg",
+    "static/media/contact-us.svg": "/shopping-cart/static/media/contact-us.aae8037cf891b873b32c7a78f18d7142.svg",
+    "static/media/track.svg": "/shopping-cart/static/media/track.c06dfd663df086c81cb47099270a910c.svg",
+    "static/media/facebook.svg": "/shopping-cart/static/media/facebook.902cc4d7145e0f994540f66662848deb.svg",
+    "static/media/cart.svg": "/shopping-cart/static/media/cart.bab00dc9a0bb7c90ac35df79a90ea85d.svg",
+    "static/media/find.svg": "/shopping-cart/static/media/find.4cdc75bad432ad25ef48c56b71c3a1a2.svg",
+    "static/media/wishlist.svg": "/shopping-cart/static/media/wishlist.7d4a4840303441d33ca581b32c1a77ac.svg",
+    "index.html": "/shopping-cart/index.html",
+    "static/media/images.svg": "/shopping-cart/static/media/images.8b0d3d5af899a17e0249d6b2366c940f.svg",
+    "static/media/emptyStar.svg": "/shopping-cart/static/media/emptyStar.361d3a345d4bedb0d345d4bba91e94d1.svg",
+    "static/media/login.svg": "/shopping-cart/static/media/login.076b47b9b19a1542bbfdad8b30ac5636.svg",
+    "static/media/star.svg": "/shopping-cart/static/media/star.4fad9007d65f3db9c91c33a46936da86.svg",
+    "static/media/leftarrow.svg": "/shopping-cart/static/media/leftarrow.217db77b9f6a5bb2d7ba797e4d127e29.svg",
+    "static/media/right-click.svg": "/shopping-cart/static/media/right-click.a9755c976b5887735fbd9b023a3e0344.svg",
+    "static/media/search.svg": "/shopping-cart/static/media/search.2b176941a1afcc20170b482a90819cac.svg",
+    "static/media/twitter.svg": "/shopping-cart/static/media/twitter.a327effb3bff1751c2062ce32f725bdf.svg",
+    "main.505bb44e.css.map": "/shopping-cart/static/css/main.505bb44e.css.map",
+    "main.907ca5ec.js.map": "/shopping-cart/static/js/main.907ca5ec.js.map",
+    "787.a5a00b74.chunk.js.map": "/shopping-cart/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505bb44e.css",
+    "static/js/main.907ca5ec.js"
+  ]
+}
